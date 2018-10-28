@@ -1,0 +1,29 @@
+.header{
+    background-color:#006600;
+}
+.header-title{
+    color:white;
+    font-size:26px;
+    margin:2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    position:absolute;
+    top:20px;
+    
+}
+.login-button .x-btn-inner-default-small {
+    font: bold 12px/16px helvetica, arial, verdana, sans-serif;
+    background-color: #e68a00;
+    border-color:none;
+    padding: 0 5px;
+    max-width: 100%;
+}
+
+.header-label{
+    color:white;
+    font:18px;
+}
+.x-mask {
+    opacity : .9
+    background-color:#666;
+}
